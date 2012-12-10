@@ -1,0 +1,172 @@
+00:31:25.272 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:25.275 - Initial configuration finished
+00:31:25.295 - Checking license
+00:31:25.372 - Setting up cache
+00:31:25.381 - c:\dev\mmtests\MMTests.csproj initialize cache
+00:31:25.383 - c:\dev\mmtests\MMTests.csproj preparing cache
+00:31:25.397 - Trying to get path Tests.cs relative to c:\dev\mmtests
+00:31:25.400 - Trying to get path Properties\AssemblyInfo.cs relative to c:\dev\mmtests
+00:31:25.402 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:25.403 - Cache initialized
+00:31:25.405 - Presenter received information message
+00:31:25.406 - handling information Cache initialized
+00:31:25.410 - Trying to get path .gitignore relative to c:\dev\mmtests
+00:31:25.421 - Trying to get path .gitignore relative to c:\dev\mmtests
+00:31:25.422 - Using ignore file c:\dev\mmtests\.gitignore
+00:31:25.426 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:25.427 - Presenter received information message
+00:31:25.428 - handling information Ignoring "[Bb]in/|[Oo]bj/|TestResults|*.suo|*.user|*.sln.docstates|[Dd]ebug/|[Rr]elease/|x64/|*_i.c|*_p.c|*.ilk|*.meta|*.obj|*.pch|*.pdb|*.pgc|*.pgd|*.rsp|*.sbr|*.tlb|*.tli|*.tlh|*.tmp|*.log|*.vspscc|*.vssscc|.builds|ipch/|*.aps|*.ncb|*.opensdf|*.sdf|*.psess|*.vsp|*.vspx|*.gpState|_ReSharper*|*.ncrunch*|.*crunch*.local.xml|[Ee]xpress|DocProject/buildhelp/|DocProject/Help/*.HxT|DocProject/Help/*.HxC|DocProject/Help/*.hhc|DocProject/Help/*.hhk|DocProject/Help/*.hhp|DocProject/Help/Html2|DocProject/Help/html|publish|*.Publish.xml|packages|csx|*.build.csdef|AppPackages/|[Bb]in|[Oo]bj|sql|TestResults|[Tt]est[Rr]esult*|*.Cache|ClientBin|[Ss]tyle[Cc]op.*|~$*|*.dbmdl|Generated_Code #added for RIA/Silverlight projects|_UpgradeReport_Files/|Backup*/|UpgradeLog*.XML"
+00:31:25.429 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:25.430 - Presenter received information message
+00:31:25.431 - handling information Tracker type: file change tracking
+00:31:25.434 - Watching c:\dev\mmtests, IsWatchingSolution = True, UseLowestCommonDenominatorAsWatchPath = True
+00:31:25.435 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:25.437 - Presenter received information message
+00:31:25.438 - handling information Starting AutoTest.Net and watching "c:\dev\mmtests" and all subdirectories.
+00:31:25.633 - Directory watcher about to publish change for 0 files
+00:31:25.988 - Publishing message of type AutoTest.Messages.WarningMessage
+00:31:25.991 - Publishing message of type AutoTest.Messages.WarningMessage
+00:31:25.993 - Publishing message of type AutoTest.Messages.WarningMessage
+00:31:25.994 - Publishing message of type AutoTest.Messages.WarningMessage
+00:31:25.997 - Presenter received warning message
+00:31:26.000 - Publishing message of type AutoTest.Messages.WarningMessage
+00:31:26.002 - Presenter received warning message
+00:31:26.004 - handling warning MSTest test runner not specified. MSTest tests will not be run.
+00:31:26.005 - Presenter received warning message
+00:31:26.006 - Presenter received warning message
+00:31:26.007 - handling warning Machine.Specifications test runner not specified. Machine.Specifications tests will not be run.
+00:31:26.009 - handling warning XUnit test runner not specified. XUnit tests will not be run.
+00:31:26.010 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:26.012 - Presenter received information message
+00:31:26.013 - Presenter received warning message
+00:31:26.014 - handling warning Code editor not specified
+00:31:26.015 - handling warning NUnit test runner not specified. NUnit tests will not be run.
+00:31:26.017 - handling information MbUnit tests: The MbUnit runner needs a reference to your gallio bin directory to be able to run tests. Edit TestRunners\MbUnit\mbunit.config to point to the correct path.
+00:31:26.018 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:26.019 - Presenter received information message
+00:31:26.021 - handling information Ignore patterns: [Bb]in/|[Oo]bj/|TestResults|*.suo|*.user|*.sln.docstates|[Dd]ebug/|[Rr]elease/|x64/|*_i.c|*_p.c|*.ilk|*.meta|*.obj|*.pch|*.pdb|*.pgc|*.pgd|*.rsp|*.sbr|*.tlb|*.tli|*.tlh|*.tmp|*.log|*.vspscc|*.vssscc|.builds|ipch/|*.aps|*.ncb|*.opensdf|*.sdf|*.psess|*.vsp|*.vspx|*.gpState|_ReSharper*|*.ncrunch*|.*crunch*.local.xml|[Ee]xpress|DocProject/buildhelp/|DocProject/Help/*.HxT|DocProject/Help/*.HxC|DocProject/Help/*.hhc|DocProject/Help/*.hhk|DocProject/Help/*.hhp|DocProject/Help/Html2|DocProject/Help/html|publish|*.Publish.xml|packages|csx|*.build.csdef|AppPackages/|[Bb]in|[Oo]bj|sql|TestResults|[Tt]est[Rr]esult*|*.Cache|ClientBin|[Ss]tyle[Cc]op.*|~$*|*.dbmdl|Generated_Code #added for RIA/Silverlight projects|_UpgradeReport_Files/|Backup*/|UpgradeLog*.XML|
+00:31:26.035 - Minimizing PreProc Created
+00:31:26.042 - Locating assemblies for preprocessor
+00:31:26.043 - Assembly build configuration
+00:31:26.050 - 	Assembly not present: c:\dev\mmtests\bin\AutoTest.Net\MMTests.dll
+00:31:26.052 - minimizer isdebug = true
+00:31:26.072 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:26.074 - VM listening on 127.0.0.1:53932
+00:31:26.075 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:26.077 - Loading up the profiler database.
+00:31:26.078 - Starting timer
+00:31:26.079 - Presenter received information message
+00:31:26.081 - handling information VM listening on 127.0.0.1:53932
+00:31:26.082 - Presenter received information message
+00:31:26.084 - handling information Loading up the profiler database.
+00:31:26.086 - About to send VMInitializedMessage for 127.0.0.1:53932
+00:31:26.087 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:26.089 - Profiler Loaded.
+00:31:26.090 - Presenter received information message
+00:31:26.092 - handling information Profiler Loaded.
+00:31:26.094 - Profiler is initialized
+00:31:26.107 - Client connected to 127.0.0.1:53932 (number of connected clients 1)
+00:31:26.109 - Client connected stopping timer
+00:31:26.111 - Stopping timer
+00:31:26.118 - received A message of type AutoTest.VM.Messages.TestProfilerCorruptedMessage
+00:31:26.120 - Testing profiler is corrupted: False
+00:31:26.507 - Publishing message of type AutoTest.Messages.WarningMessage
+00:31:26.511 - Presenter received warning message
+00:31:26.515 - handling warning NUnit test runner not specified. NUnit tests will not be run.
+00:31:26.519 - Publishing message of type AutoTest.Messages.WarningMessage
+00:31:26.523 - Publishing message of type AutoTest.Messages.WarningMessage
+00:31:26.527 - Publishing message of type AutoTest.Messages.WarningMessage
+00:31:26.530 - Publishing message of type AutoTest.Messages.WarningMessage
+00:31:26.533 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:26.537 - Presenter received information message
+00:31:26.540 - handling information MbUnit tests: The MbUnit runner needs a reference to your gallio bin directory to be able to run tests. Edit TestRunners\MbUnit\mbunit.config to point to the correct path.
+00:31:26.542 - Presenter received warning message
+00:31:26.546 - Presenter received warning message
+00:31:26.549 - Presenter received warning message
+00:31:26.552 - Presenter received warning message
+00:31:26.555 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:26.557 - handling warning Machine.Specifications test runner not specified. Machine.Specifications tests will not be run.
+00:31:26.559 - handling warning Code editor not specified
+00:31:26.562 - handling warning XUnit test runner not specified. XUnit tests will not be run.
+00:31:26.564 - handling warning MSTest test runner not specified. MSTest tests will not be run.
+00:31:26.566 - Presenter received information message
+00:31:26.567 - handling information Ignore patterns: [Bb]in/|[Oo]bj/|TestResults|*.suo|*.user|*.sln.docstates|[Dd]ebug/|[Rr]elease/|x64/|*_i.c|*_p.c|*.ilk|*.meta|*.obj|*.pch|*.pdb|*.pgc|*.pgd|*.rsp|*.sbr|*.tlb|*.tli|*.tlh|*.tmp|*.log|*.vspscc|*.vssscc|.builds|ipch/|*.aps|*.ncb|*.opensdf|*.sdf|*.psess|*.vsp|*.vspx|*.gpState|_ReSharper*|*.ncrunch*|.*crunch*.local.xml|[Ee]xpress|DocProject/buildhelp/|DocProject/Help/*.HxT|DocProject/Help/*.HxC|DocProject/Help/*.hhc|DocProject/Help/*.hhk|DocProject/Help/*.hhp|DocProject/Help/Html2|DocProject/Help/html|publish|*.Publish.xml|packages|csx|*.build.csdef|AppPackages/|[Bb]in|[Oo]bj|sql|TestResults|[Tt]est[Rr]esult*|*.Cache|ClientBin|[Ss]tyle[Cc]op.*|~$*|*.dbmdl|Generated_Code #added for RIA/Silverlight projects|_UpgradeReport_Files/|Backup*/|UpgradeLog*.XML|
+00:31:26.618 - received A message of type AutoTest.VM.Messages.RequestMessage`2[AutoTest.VM.Messages.IsSolutionInitializedRequest,AutoTest.VM.Messages.IsSolutionInitializedResponse]
+00:31:26.622 - Assembly path for project requested
+00:31:29.240 - received A message of type AutoTest.VM.Messages.RunRecursiveRunDetectorMessage
+00:31:29.245 - Runing recursive run detector
+00:31:29.341 - received A message of type AutoTest.VM.Messages.ForceFullRunMessage
+00:31:29.345 - Forcing full test run
+00:31:29.372 - Publishing message of type AutoTest.Messages.ProjectChangeMessage
+00:31:29.384 - Consuming project changes for:
+    c:\dev\mmtests\MMTests.csproj
+
+00:31:29.386 - Publishing message of type AutoTest.Messages.RunStartedMessage
+00:31:29.388 - Presenter received run start message
+00:31:29.391 - handling run started
+00:31:29.393 - Starting project change run
+00:31:29.395 - Build provider changed to 'RecursiveRunConsumer'
+00:31:29.417 - Collection loose ends to prevent locked files before build runs.
+00:31:29.421 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:29.423 - Running builds
+00:31:29.425 - Presenter received information message
+00:31:29.426 - handling information Running builds
+00:31:29.429 - Publishing message of type AutoTest.Messages.RunInformationMessage
+00:31:29.431 - Presenter received run information message
+00:31:29.433 - handling run information message
+00:31:29.435 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:29.436 - Running build: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe "c:\dev\mmtests\MMTests.sln" /property:OutDir=bin\AutoTest.Net\;IntermediateOutputPath=bin\AutoTest.Net\_tmpIntermediateAT\ /target:rebuild
+00:31:29.438 - Presenter received information message
+00:31:29.439 - handling information Running build: C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe "c:\dev\mmtests\MMTests.sln" /property:OutDir=bin\AutoTest.Net\;IntermediateOutputPath=bin\AutoTest.Net\_tmpIntermediateAT\ /target:rebuild
+00:31:29.664 - Publishing message of type AutoTest.Messages.BuildRunMessage
+00:31:29.666 - Presenter received build message
+00:31:29.668 - Merging build run results
+00:31:29.670 - Running test preprosessor
+00:31:29.673 - handling build message
+00:31:29.684 - About to delete 0 profiler log files
+00:31:29.686 - Run minimized is False
+00:31:29.687 - Locating assemblies for preprocessor
+00:31:29.689 - Assembly build configuration
+00:31:29.690 - 	c:\dev\mmtests\bin\AutoTest.Net\MMTests.dll
+00:31:29.699 - Debug doing full afferent/efferent coupling map: c:\dev\mmtests\bin\AutoTest.Net\MMTests.dll
+00:31:29.938 - Debug Full Map took: 00:00:00.2020115
+00:31:29.941 - Debug 	Cached: MMTests  MMTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+00:31:29.942 - Debug 	Cached: MMTests 1.0.0.0 MMTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+00:31:29.944 - Debug 	Cached: mscorlib 4.0.0.0 mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+00:31:29.945 - Debug 	Cached: nunit.framework 2.5.10.11092 nunit.framework, Version=2.5.10.11092, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77
+00:31:29.947 - Debug 	Cached: mscorlib 2.0.0.0 mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+00:31:29.949 - Info detecting changes.
+00:31:29.954 - Info history file c:\dev\mmtests\bin\AutoTest.Net\MMTests.mm.dll does not exist.
+00:31:29.958 - Debug total detection took: 00:00:00.0070004
+00:31:29.961 - Debug Reindexing Changes
+00:31:29.962 - Debug reindex took: 00:00:00
+00:31:29.967 - Debug getting tests for changes
+00:31:29.970 - Debug there are 0 graphs returned. Combining.
+00:31:29.972 - Debug there are 0 nodes in combined graph.
+00:31:29.973 - Debug took 00:00:00.0050003 to walk graph
+00:31:29.977 - Info there are 0in the graph.
+00:31:29.981 - minimizer returns 0 tests
+00:31:29.983 - Running 2nd generation garbage collection
+00:31:29.987 - Waiting for finalizers
+00:31:29.989 - GC done
+00:31:29.990 - Getting profiler wrapper
+00:31:29.993 - Returning original runinfos
+00:31:29.999 - Done - Running test preprosessor
+00:31:30.005 - Preparing runner AutoTest.Core.TestRunners.TestRunners.NUnitTestRunner
+00:31:30.011 - Preparing runner AutoTest.Core.TestRunners.TestRunners.MSTestRunner
+00:31:30.014 - Publishing message of type AutoTest.Messages.InformationMessage
+00:31:30.015 - File not found: 
+00:31:30.017 - Preparing runner AutoTest.Core.TestRunners.TestRunners.XUnitTestRunner
+00:31:30.019 - Presenter received information message
+00:31:30.021 - handling information File not found: 
+00:31:30.023 - Preparing runner AutoTest.Core.TestRunners.TestRunners.MSpecTestRunner
+00:31:30.025 - Preparing runner AutoTest.Core.TestRunners.TestRunners.AutoTestTestRunner
+00:31:30.048 - Test run completed
+00:31:30.049 - Test run completed and cleaned up
+00:31:30.051 - Publishing message of type AutoTest.Messages.RunFinishedMessage
+00:31:30.052 - Presenter received run finished message
+00:31:30.054 - handling run finished
+00:31:30.057 - Consuming run finished message for change tracker
+00:31:30.059 - Recursive run detection completed
+00:31:30.063 - Recursive run detection found changes in 0 files
+00:31:30.065 - Build provider changed to 'MSBuild'
